@@ -1,5 +1,5 @@
 # calculator
-![](./screenshots/image.png)
+<img src="./screenshots/image.png" style="width: 100">
 
 ## Description
 This is a simple calculator app that can perform basic arithmetic operations. It is built using react-native and expo.
